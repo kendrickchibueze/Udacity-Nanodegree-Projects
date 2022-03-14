@@ -40,7 +40,13 @@
 
 }
 
-.describe ul li span{
+.describe ul{
+    list-style-type: none;
+    margin-left:-20px;
+    font-weight:normal
+
+}
+.describe li span{
     font-weight: bold;
 }
 
