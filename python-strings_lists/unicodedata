@@ -1,0 +1,6 @@
+>>> import unicodedata
+>>> unicodedata.lookup("snake")
+'🐍'
+>>> unicodedata.lookup("cow")
+'🐄'
+>>>
